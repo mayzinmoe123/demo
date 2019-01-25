@@ -11,3 +11,5 @@ change 4 from conflict_example branch
 change 5 from conflict_example branch
 
 change 6 from conflict_example branch
+
+change 7 from conflict_example branch
