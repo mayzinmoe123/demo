@@ -9,3 +9,5 @@ change 3 from conflict_example branch
 change 4 from conflict_example branch
 
 change 5 from conflict_example branch
+
+change 6 from conflict_example branch
